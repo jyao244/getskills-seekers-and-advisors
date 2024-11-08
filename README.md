@@ -1,3 +1,7 @@
+# Important:
+Since this project is going to be commercialised, the source code has been removed. The app can be accessed via:\
+www.seekersandadvisors.com
+---
 # SOFTENG 761 Group 8  _GetSkills - Seekers and Advisors_
 
 ## Introduction
